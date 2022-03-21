@@ -1,7 +1,6 @@
-### Olá, eu sou o Gabriel.
+### Olá
 
 
-- 🔭 Cursando: Análise e Desenvovimento De Sistemas.
 - 👨‍🎓 Estudando: Python e Desenvolvimento web.
 - 🙋‍♂️ Contato: gabrielaraujo16@yahoo.com
 
