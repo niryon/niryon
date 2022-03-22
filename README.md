@@ -1,6 +1,7 @@
 ### Olá, meu nome é Gabriel
 
 👨‍🎓 Estudando: Python, Java e Desenvolvimento web.
+
 Meu contato: gabrielaraujo16@yahoo.com
 
 <div>
