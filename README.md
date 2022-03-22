@@ -1,9 +1,7 @@
 ### Olá, meu nome é Gabriel
 
-
-- 👨‍🎓 Estudando: Python, Java e Desenvolvimento web.
-
-Contato: gabrielaraujo16@yahoo.com
+👨‍🎓 Estudando: Python, Java e Desenvolvimento web.
+Meu contato: gabrielaraujo16@yahoo.com
 
 <div>
   <a href="https://github.com/niryon">
