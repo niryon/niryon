@@ -1,4 +1,4 @@
-### Olá, meu nome é Gabriel e sou estudante de Análise e Desenvolvimento de Sistemas.
+### Olá, meu nome é Gabriel
 
 
 - 👨‍🎓 Estudando: Python, Java e Desenvolvimento web.
